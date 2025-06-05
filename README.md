@@ -1,1 +1,1 @@
-# Pothole_Detection_Using_NLP
+# Pothole_Detection_Using_CNN
